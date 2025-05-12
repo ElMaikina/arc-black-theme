@@ -40,7 +40,7 @@ $panel_transition_duration: 250ms;
 // Chroma key to flag when a background-color is always occluded, not visible.
 // This allows any box-shadow behind it to be rendered more efficiently by
 // omitting the middle rectangle.
-$invisible_occluded_bg_color: rgba(3,2,1,0);
+$invisible_occluded_bg_color: #111810;
 
 stage {
   @include fontsize($font-size);
