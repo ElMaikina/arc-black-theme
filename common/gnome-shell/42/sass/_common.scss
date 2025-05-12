@@ -2413,7 +2413,7 @@ $_dash_bottom_margin: 20px;
 }
 
 .key-container {
-  padding: 4px;
+  padding: 0px 4px;
   spacing: 4px;
 }
 
@@ -2518,7 +2518,7 @@ $_dash_bottom_margin: 20px;
 }
 
 .candidate-page-button {
-  padding: 4px;
+  padding: 0px 4px;
 }
 
 .candidate-page-button-previous { border-radius: 2px 0px 0px 2px; border-right-width: 0; }
@@ -2866,7 +2866,7 @@ $_dash_bottom_margin: 20px;
       background-color: $selected_bg_color;
     }
   }
-  StBoxLayout#EvalBox { padding: 4px; spacing: 4px; }
+  StBoxLayout#EvalBox { padding: 0px 4px; spacing: 4px; }
   StBoxLayout#ResultsArea { spacing: 4px; }
 }
 
@@ -2907,15 +2907,15 @@ $_dash_bottom_margin: 20px;
 
 .lg-obj-inspector-button {
   border: 1px solid gray;
-  padding: 4px;
+  padding: 0px 4px;
   border-radius: 4px;
   &:hover { border: 1px solid #ffffff; }
 }
 
-#lookingGlassExtensions { padding: 4px; }
+#lookingGlassExtensions { padding: 0px 4px; }
 
 .lg-extensions-list {
-  padding: 4px;
+  padding: 0px 4px;
   spacing: 6px;
 }
 
@@ -2923,7 +2923,7 @@ $_dash_bottom_margin: 20px;
   border: 1px solid $osd_borders_color;
   border-radius: 2px;
   background-color: $osd_bg_color;
-  padding: 4px;
+  padding: 0px 4px;
 }
 
 .lg-extension-name {
@@ -2998,7 +2998,7 @@ $_screenshot_ui_panel_padding: 15px;
   height: 36px;
   border-radius: 99px;
   border: 4px $_shell_fg_color;
-  padding: 4px;
+  padding: 0px 4px;
 
   .screenshot-ui-capture-button-circle {
     background-color: $_shell_fg_color;

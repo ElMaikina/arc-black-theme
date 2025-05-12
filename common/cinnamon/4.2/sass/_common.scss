@@ -286,7 +286,7 @@ StScrollBar {
   .popup-menu-item:rtl { padding-left: 0em; }
 
   StScrollBar {
-    padding: 4px;
+    padding: 0px 4px;
     StBin#trough, StBin#vhandle { border-width: 0; }
   }
 }
@@ -618,7 +618,7 @@ StScrollBar {
     border: 1px solid $borders_color;
     border-radius: 2px;
     background-color: $base_color;
-    padding: 4px;
+    padding: 0px 4px;
     padding-right: 0;
     border-radius: 0;
 
@@ -842,7 +842,7 @@ StScrollBar {
   padding: 20px;
 
   > StBoxLayout {
-    padding: 4px;
+    padding: 0px 4px;
   }
 
   &-item-container { spacing: 8px; }
@@ -1416,7 +1416,7 @@ StScrollBar {
       spacing: 4px;
     }
     & .item-box:outlined {
-      padding: 4px;
+      padding: 0px 4px;
       border: 2px solid $selected_bg_color;
     }
     & .item-box:selected {

@@ -191,7 +191,7 @@ spinner {
 entry {
   min-height: 22px;
   border: 1px solid;
-  padding: 2px 8px;
+  padding: 0px 4px;
 
   caret-color: currentColor;
   border-radius: 3px;
@@ -356,7 +356,7 @@ button {
   transition: $button_transition;
   border: 1px solid;
   border-radius: 3px;
-  padding: 2px 6px;
+  padding: 0px 2px;
 
   @include button(normal);
 
@@ -975,7 +975,7 @@ combobox {
 //
 toolbar {
   -GtkWidget-window-dragging: true;
-  padding: 4px;
+  padding: 0px 4px;
   background-color: $bg_color;
 
   separator { background: none; }
@@ -1829,7 +1829,7 @@ menu,
     @include button(undecorated);
     min-width: 16px;
     min-height: 16px;
-    padding: 4px;
+    padding: 0px 4px;
     background-color: $_menu_bg;
     border-radius: 0;
 
@@ -3100,7 +3100,7 @@ tooltip {
     background-color: lighten($osd_bg_color, 10%);
     background-clip: padding-box;
 
-    label { padding: 4px; }
+    label { padding: 0px 4px; }
   }
 
   border-radius: 2px;
