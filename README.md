@@ -4,25 +4,15 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and various deskt
 
 The theme was originally designed and developed by [horst3180](https://github.com/horst3180/arc-theme), but the project has been unmaintained since May 2017.
 
-This fork aims to keep the theme updated with new toolkit and desktop environment versions, resolve pre-existing issues, and improve and polish the theme while preserving the original visual design.
+This is my own fork that focuses on a black and compact theme.
 
-## Arc is available in four variants
+## Screenshots
 
-##### Arc
+![First screenshot](ss1.png)
 
-![A screenshot of the Arc theme](https://raw.githubusercontent.com/jnsh/arc-theme/master/.github/arc-prv.png)
+![Second screenshot](ss2.png)
 
-##### Arc-Darker
-
-![A screenshot of the Arc-Darker theme](https://raw.githubusercontent.com/jnsh/arc-theme/master/.github/arc-darker-prv.png)
-
-##### Arc-Dark
-
-![A screenshot of the Arc-Dark theme](https://raw.githubusercontent.com/jnsh/arc-theme/master/.github/arc-dark-prv.png)
-
-##### Arc-Lighter
-
-![A screenshot of the Arc-Lighter theme](https://raw.githubusercontent.com/jnsh/arc-theme/master/.github/arc-lighter-prv.png)
+![Third screenshot](ss3.png)
 
 ## Supported toolkits and desktops
 
