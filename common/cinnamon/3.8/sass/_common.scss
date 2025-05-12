@@ -616,7 +616,7 @@ StScrollBar {
     padding-bottom: 16px;
   }
   &-version {
-    padding-left: 7px;
+    padding-left: 4px;
     font-size: 10px;
     color: #888;
   }
@@ -1144,8 +1144,8 @@ StScrollBar {
       &:highlighted { font-weight: bold; }
     }
 
-    &-label:ltr { padding-left: 5px; }
-    &-label:rtl { padding-right: 5px; }
+    &-label:ltr { padding-left: 3px; }
+    &-label:rtl { padding-right: 3px; }
   }
 
   &-category-button {
@@ -1163,8 +1163,8 @@ StScrollBar {
       border: 1px solid rgba(0,0,0,0);
     }
 
-    &-label:ltr { padding-left: 5px; }
-    &-label:rtl { padding-right: 5px; }
+    &-label:ltr { padding-left: 3px; }
+    &-label:rtl { padding-right: 3px; }
   }
 
   // Name and description of the currently hovered item in the menu
@@ -1448,7 +1448,7 @@ StScrollBar {
 // Panel Launchers Applet (panelLaunchers.js)
 //
 .panel-launchers {
-  padding-left: 7px;
+  padding-left: 4px;
   spacing: 6px;
 
   &.vertical {

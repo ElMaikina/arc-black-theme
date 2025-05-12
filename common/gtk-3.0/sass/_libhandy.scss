@@ -100,11 +100,11 @@ viewswitcher {
 
         label {
           &:dir(ltr) {
-            padding-right: 7px;
+            padding-right: 4px;
           }
 
           &:dir(rtl) {
-            padding-left: 7px;
+            padding-left: 4px;
           }
         }
       }
@@ -380,7 +380,7 @@ tabbar {
 tabbar,
 .tab-drag-icon {
   tab {
-    padding: 0px 2px;
+    padding: 0px 3px;
 
     &.needs-attention {
       background-image:
